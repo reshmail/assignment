@@ -1,0 +1,123 @@
+
+*{list-style-type: none;
+margin :0px;
+padding: 0px;
+box-sizing: border-box;
+text-decoration: none;
+
+}
+#first{
+background: #3361FF;
+border: 40px ;
+padding: 30px 100px 5px 40px;
+
+}
+#first img{
+	border: 70px;
+	margin:10px  10px 0px 10px;
+border-top: 20px;
+border-radius: 5px;
+}
+#first p{
+display: inline;
+padding-left: 90px;
+color: white;
+font-size: 19px;
+}
+#first form{
+display: inline;
+padding:0px;
+
+}
+#first form input{
+	padding: 5px;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.checkbtn{
+  font-size: 30px;
+  color: white;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+#check{
+  display: none;
+}
+a{color: black;}
+ #firstpic {
+	height: 60%;
+	width: 100%;
+}
+#para{
+	background:#3458eb;
+margin: 0px;
+
+}
+.head{
+	color: green;
+}
+.heading {
+	color:  #4d69db;
+	font-weight: bold;
+	font-size: 34px;
+}
+
+#text{
+	margin-left: 8%;
+	margin-right: 8%;
+	padding: 6px;
+	color: #868996;
+	word-spacing: 2px;
+}
+#blue{
+	background-color:blue;
+	color: white;
+	padding:20px 10px 20px 20px;
+height: auto;
+width: 40%;
+margin: 0px;
+}
+
+
+#blue2{
+	background-color: blue;
+	color: white;
+	padding:20px 10px 20px 20px;
+height: auto;
+width: 35%;
+	
+}
+#doctor{
+	background-color: blue;
+	color: white;
+	padding:20px 10px 20px 20px;
+height: auto;
+width: 35%;}
+	#edu{
+	background-color: blue;
+	color: white;
+	padding:20px 10px 20px 20px;
+height: auto;
+width: 35%;
+}
+.green{
+	color: green;
+	font-size: 20px;
+}
+#midsection2{
+	
+	color: white;
+padding-top: 40px;
+	background-color: white;
+
+}
